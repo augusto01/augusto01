@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/](https://aalmironportafolio.netlify.app/)" target="blank">
 Augusto</a></h1>
-<h3 align="center">Soy un apasionado desarrollador web de Corrientes, Argentina  🇦🇷;&#127475</h3>
+<h3 align="center">Soy un apasionado desarrollador web de Corrientes, Argentina  🇦🇷</h3>
 
 
 
@@ -35,17 +35,5 @@ Augusto</a></h1>
 
 </p>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
 Last Edited on: 21-12-2024
