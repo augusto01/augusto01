@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/](https://aalmironportafolio.netlify.app/)" target="blank">
 Augusto</a></h1>
-<h3 align="center">Soy un apasionado desarrollador web de Corrientes, Argentina &#127470;&#127475</h3>
+<h3 align="center">Soy un apasionado desarrollador web de Corrientes, Argentina  🇦🇷;&#127475</h3>
 
 
 
