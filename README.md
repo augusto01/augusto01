@@ -1,8 +1,9 @@
 <h1 align="center">Hola!, soy  Augusto Almiron<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%92%BB+Desarrollador+Web;%F0%9F%8E%93+Estudiante+de+Licenciatura+en+Sistemas+de+Información+UNNE;%F0%9F%9A%80+Siempre+buscando+aprender+cosas+nuevas+!;%F0%9F%94%A5+Intentando+ser+Fullstack;%E2%9C%A8+Escribo+código,+no+pidas+que+funcione;%F0%9F%A4%96+%22Funcionaba+ayer,+no+sé+qué+pasó%22;%F0%9F%92%80+Debugger+por+deporte;%F0%9F%8E%AE+Ctrl%2BC%2C+Ctrl%2BV+es+mi+superpoder;%F0%9F%A4%AF+Chat+GPT,+%3F+¿Qué+es+eso%3F+%F0%9F%98%95;%F0%9F%A7%90+Si+alguien+puede+centrar+un+div,+que+me+lo+explique;%E2%9A%99%EF%B8%8F+Si+funciona,+no+lo+toques;%E2%8F%B3+90%25+del+tiempo+debugueando,+10%25+programando" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%92%BB+Desarrollador+Web;%F0%9F%8E%93+Estudiante+de+Licenciatura+en+Sistemas+de+Información+UNNE;%F0%9F%9A%80+Siempre+buscando+aprender+cosas+nuevas+!;%F0%9F%94%A5+Intentando+ser+Fullstack;%E2%9C%A8+Escribo+código,+no+pidas+que+funcione;%F0%9F%A4%96+%22Funcionaba+ayer,+no+sé+qué+pasó%22;%F0%9F%92%80+Debugger+por+deporte;%F0%9F%8E%AE+Ctrl%2BC%2C+Ctrl%2BV+es+mi+superpoder;%F0%9F%A4%AF+Chat+GPT,+%3F+¿Qué+es+eso%3F+%F0%9F%98%95;%F0%9F%A7%90+Lo+acepto,+no+sé+centrar+un+div;%E2%9A%99%EF%B8%8F+Si+funciona,+no+lo+toques;%F0%9F%91%A6+Hincha+del+mas+grande+%F0%9F%92%9A+%F0%9F%92%9B;%F0%9F%8D%9E+Me+encanta+el+mate+%F0%9F%8C%8C,+es+mi+combustible+para+programar!" />
 </a>
+
 
 
 
