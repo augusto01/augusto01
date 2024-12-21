@@ -1,8 +1,9 @@
 <h1 align="center">Hola!, soy  Augusto Almiron<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%92%BB+Web+Developer;%F0%9F%8E%93+Estudiante+de+Licenciatura+en+Sistemas+UNNE;%F0%9F%9A%80+Siempre+buscando+aprender+cosas+nuevas;%F0%9F%94%A5+Intentando+ser+Fullstack&duration=4000&speed=30" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%92%BB+Web+Developer;%F0%9F%8E%93+Estudiante+de+Licenciatura+en+Sistemas+de+Informacion+UNNE;%F0%9F%9A%80+Siempre+buscando+aprender+cosas+nuevas;%F0%9F%94%A5+Intentando+ser+Fullstack" />
 </a>
+
 
 
 
