@@ -1,7 +1,7 @@
 <h1 align="center">Hola!, soy  Augusto Almiron<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%92%BB+Desarrollador+Web;%F0%9F%8E%93+Estudiante+de+Licenciatura+en+Sistemas+de+Información+UNNE;%F0%9F%9A%80+Siempre+buscando+aprender+cosas+nuevas+!;%F0%9F%94%A5+Intentando+ser+Fullstack;%E2%9C%A8+Escribo+código,+no+pidas+que+funcione;%F0%9F%A4%96+%22Funcionaba+ayer,+no+sé+qué+pasó%22;%F0%9F%92%80+Debugger+por+deporte;%F0%9F%8E%AE+Ctrl%2BC%2C+Ctrl%2BV+es+mi+superpoder;%F0%9F%A4%AF+Chat+GPT,+%3F+¿Qué+es+eso%3F+%F0%9F%98%95;%F0%9F%A7%90+Lo+acepto,+no+sé+centrar+un+div;%F0%9F%91%A6+Hincha+del+mas+grande+%F0%9F%92%9C+%F0%9F%92%9B;Sin+el+mate,+no+programo+!+%F0%9F%8D%9E+%28ni+tampoco+vivo%29;%F0%9F%92%9C+Corazón+amarillo;%F0%9F%92%9B+Corazón+azul" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%92%BB+Desarrollador+Web;%F0%9F%8E%93+Estudiante+de+Licenciatura+en+Sistemas+de+Información+UNNE;%F0%9F%9A%80+Siempre+buscando+aprender+cosas+nuevas+!;%F0%9F%94%A5+Intentando+ser+Fullstack;%E2%9C%A8+Escribo+código,+no+pidas+que+funcione;%F0%9F%A4%96+%22Funcionaba+ayer,+no+sé+qué+pasó%22;%F0%9F%92%80+Debugger+por+deporte;%F0%9F%8E%AE+Ctrl%2BC%2C+Ctrl%2BV+es+mi+superpoder;%F0%9F%A4%AF+Chat+GPT,+%3F+¿Qué+es+eso%3F+%F0%9F%98%95;%F0%9F%A7%90+Lo+acepto,+no+sé+centrar+un+div;%F0%9F%91%A6+Hincha+del+mas+grande+💙+%F0%9F%92%9B;Sin+el+mate,+no+programo+!+🧉+%28ni+tampoco+vivo%29;" />
 </a>
 
 
